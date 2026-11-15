@@ -2,7 +2,7 @@
 
 A hands-on Vulnerability Assessment & Penetration Test (VAPT) of [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/), performed as a portfolio project to demonstrate practical web application security testing skills for Cyber Security / SOC / VAPT internship applications.
 
-📄 **[Full VAPT Report (PDF)](./VAPT_Report_OWASP_JuiceShop.pdf)**
+📄 **[Full VAPT Report (PDF)](./VAPT_Report_OWASP_JuiceShop_.pdf)**
 
 ---
 
